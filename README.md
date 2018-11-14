@@ -1,6 +1,6 @@
 # Steps to Run the App
 
-1) Download the files from https://github.com/isachinraj/cards
+1) Download the files from https://github.com/isachinraj/Cards
 2) cd Card-Layout
 3) npm install
 4) npm start
