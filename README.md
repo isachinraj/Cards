@@ -1,13 +1,13 @@
 # Steps to Run the App
 
 1) Download the files from https://github.com/isachinraj/Cards
-2) cd Card-Layout
+2) cd Cards
 3) npm install
 4) npm start
 
 # Steps to create a Fake Jason sever to fetch the response
 1) Open the new separate terminal
-2) cd Card-Layout
+2) cd Cards
 3) npm install -g json-server
 4) json-server --watch db.json --port 3001
 5) Check if you are able to access the json data @ http://localhost:3001/cards
